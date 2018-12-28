@@ -4,4 +4,4 @@
 
 * **NetworkAdapterName**: Name of the Target Network Adapter.
 * **Protocol**: IPV4 or IPV6 protocol to Target.
-* **status **: Whether the offloading should be enabled or disabled.
+* **status**: Whether the offloading should be enabled or disabled.
